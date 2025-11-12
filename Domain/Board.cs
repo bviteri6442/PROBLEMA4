@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿
 using System.Text;
-using System.Threading.Tasks;
 
-namespace Sudoku.ConsoleApp.Domain
-{
-    internal class Board
+
+namespace Sudoku.ConsoleApp.Domain;
+
+    public class Board
     {
         private readonly Cell[,] _cells = new Cell[9, 9];
 
@@ -35,10 +33,9 @@ namespace Sudoku.ConsoleApp.Domain
             return b;
         }
 
-        public Cell this[int row, int col] => _cells[row, col];
-        public Cell this[Position p] => _cells[p.Row, p.Col];
-
-        public void SetValue(Position p, int value) => _cells[p.Row, p.Col].SetValue(value);
+    public Cell this[int row, int col] => _cells[row, col];
+    public Cell this[Position p] => _cells[p.Row, p.Col];
+    public void SetValue(Position p, int value) => _cells[p.Row, p.Col].SetValue(value);
 
         public IEnumerable<Position> AllPositions()
         {
@@ -68,4 +65,4 @@ namespace Sudoku.ConsoleApp.Domain
             return rows;
         }
     }
-}
+

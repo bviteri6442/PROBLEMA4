@@ -1,12 +1,8 @@
 ﻿using Sudoku.ConsoleApp.Domain;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Sudoku.ConsoleApp.Infrastructure
-{
+
+namespace Sudoku.ConsoleApp.Infrastructure;
+
     public sealed class BoardRenderer
     {
         public void Render(Board b)
@@ -27,4 +23,4 @@ namespace Sudoku.ConsoleApp.Infrastructure
             }
         }
     }
-}
+

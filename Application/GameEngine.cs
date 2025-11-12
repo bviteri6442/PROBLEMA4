@@ -1,16 +1,12 @@
 ﻿using Sudoku.ConsoleApp.Application.Commands;
 using Sudoku.ConsoleApp.Domain;
 using Sudoku.ConsoleApp.Domain.Validation;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Sudoku.ConsoleApp.Infrastructure;
 using static Sudoku.ConsoleApp.Domain.ISudokuSolver;
 
-namespace Sudoku.ConsoleApp.Application
-{
-    internal class GameEngine
+namespace Sudoku.ConsoleApp.Application;
+
+    public sealed class GameEngine
     {
         private readonly BoardRenderer _renderer = new();
         private readonly ClassicSudokuValidator _validator = new();
@@ -189,4 +185,4 @@ Comandos:
             return $"Sugerencia MRV: celda ({best.Value.Row + 1},{best.Value.Col + 1}) con {{ {values} }}";
         }
     }
-}
+

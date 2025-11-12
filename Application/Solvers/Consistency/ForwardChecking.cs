@@ -1,12 +1,8 @@
 ﻿using Sudoku.ConsoleApp.Domain;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Sudoku.ConsoleApp.Application.Solvers.Consistency
-{
+
+namespace Sudoku.ConsoleApp.Application.Solvers.Consistency;
+
     public sealed class ForwardChecking : IConstraintPropagator
     {
         public IEnumerable<int> Candidates(Board b, Position p) => CandidatesFor(b, p);
@@ -90,4 +86,4 @@ namespace Sudoku.ConsoleApp.Application.Solvers.Consistency
                         yield return new Position(r, c);
         }
     }
-}
+

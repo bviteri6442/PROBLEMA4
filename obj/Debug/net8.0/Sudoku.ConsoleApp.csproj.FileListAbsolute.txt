@@ -1,0 +1,15 @@
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\obj\Debug\net8.0\Sudoku.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\obj\Debug\net8.0\Sudoku.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\obj\Debug\net8.0\Sudoku.ConsoleApp.AssemblyInfo.cs
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\obj\Debug\net8.0\Sudoku.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\obj\Debug\net8.0\Sudoku.ConsoleApp.sourcelink.json
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\bin\Debug\net8.0\Sudoku.ConsoleApp.exe
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\bin\Debug\net8.0\Sudoku.ConsoleApp.deps.json
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\bin\Debug\net8.0\Sudoku.ConsoleApp.runtimeconfig.json
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\bin\Debug\net8.0\Sudoku.ConsoleApp.dll
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\bin\Debug\net8.0\Sudoku.ConsoleApp.pdb
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\obj\Debug\net8.0\Sudoku.ConsoleApp.dll
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\obj\Debug\net8.0\refint\Sudoku.ConsoleApp.dll
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\obj\Debug\net8.0\Sudoku.ConsoleApp.pdb
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\obj\Debug\net8.0\Sudoku.ConsoleApp.genruntimeconfig.cache
+C:\Users\LEGIO\source\repos\Sudoku.ConsoleApp\obj\Debug\net8.0\ref\Sudoku.ConsoleApp.dll

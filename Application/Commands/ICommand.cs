@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace Sudoku.ConsoleApp.Application.Commands
+namespace Sudoku.ConsoleApp.Application.Commands;
+public interface ICommand
 {
-    internal interface ICommand
-    {
-        bool Execute();
-        void Undo();
-        string Describe();
-    }
+    bool Execute();
+    void Undo();
+    string Describe();
 }
+

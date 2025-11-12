@@ -1,8 +1,9 @@
 ﻿using Sudoku.ConsoleApp.Domain;
 
 
-namespace Sudoku.ConsoleApp.Application.Solvers.Heuristics
-{
+
+namespace Sudoku.ConsoleApp.Application.Solvers.Heuristics;
+
     public interface IHeuristic
     {
         Position? SelectVariable(Board board);
@@ -12,4 +13,4 @@ namespace Sudoku.ConsoleApp.Application.Solvers.Heuristics
     {
         IEnumerable<int> OrderValues(Board board, Position pos, IEnumerable<int> candidates);
     }
-}
+

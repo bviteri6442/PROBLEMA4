@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace Sudoku.ConsoleApp.Application.Commands
-{
-    internal class UndoCommand : ICommand
+namespace Sudoku.ConsoleApp.Application.Commands;
+
+public sealed class UndoCommand : ICommand
     {
         private readonly Stack<ICommand> _undo;
         private readonly Stack<ICommand> _redo;
@@ -29,4 +25,4 @@ namespace Sudoku.ConsoleApp.Application.Commands
 
         public string Describe() => "undo";
     }
-}
+

@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace Sudoku.ConsoleApp.Domain
-{
-    internal class Cell
+namespace Sudoku.ConsoleApp.Domain;
+
+    public class Cell
     {
         public int Value { get; private set; } // 0..9 (0 = vacío)
         public bool IsFixed { get; private set; }
@@ -41,4 +37,4 @@ namespace Sudoku.ConsoleApp.Domain
             return clone;
         }
     }
-}
+

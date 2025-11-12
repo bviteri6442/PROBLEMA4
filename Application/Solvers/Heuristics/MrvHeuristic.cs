@@ -1,12 +1,9 @@
-﻿using Sudoku.ConsoleApp.Domain;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Sudoku.ConsoleApp.Application.Solvers.Consistency;
+using Sudoku.ConsoleApp.Domain;
 
-namespace Sudoku.ConsoleApp.Application.Solvers.Heuristics
-{
+
+namespace Sudoku.ConsoleApp.Application.Solvers.Heuristics;
+
     public sealed class MrvHeuristic : IHeuristic
     {
         public Position? SelectVariable(Board board)
@@ -57,4 +54,4 @@ namespace Sudoku.ConsoleApp.Application.Solvers.Heuristics
             }
         }
     }
-}
+

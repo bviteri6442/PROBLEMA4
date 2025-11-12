@@ -1,14 +1,12 @@
-﻿using Sudoku.ConsoleApp.Domain;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Sudoku.ConsoleApp.Application.Solvers.Consistency;
+using Sudoku.ConsoleApp.Application.Solvers.Heuristics;
+using Sudoku.ConsoleApp.Domain;
+using static Sudoku.ConsoleApp.Application.Solvers.Heuristics.MrvHeuristic;
 using static Sudoku.ConsoleApp.Domain.ISudokuSolver;
 
-namespace Sudoku.ConsoleApp.Application.SearchTemplates
-{
-    internal class SolverTemplate : ISudokuSolver
+namespace Sudoku.ConsoleApp.Application.SearchTemplates;
+
+    public abstract class SolverTemplate : ISudokuSolver
     {
         public event Action<SolverEvent>? OnStep;
 
@@ -66,4 +64,4 @@ namespace Sudoku.ConsoleApp.Application.SearchTemplates
             return false;
         }
     }
-}
+

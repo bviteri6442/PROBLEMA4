@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Sudoku.ConsoleApp.Domain
-{
-    internal class SudokuRules
+namespace Sudoku.ConsoleApp.Domain;
+
+    public static class SudokuRules
     {
         public static bool RowIsValid(Board b, int row)
         {
@@ -62,4 +58,4 @@ namespace Sudoku.ConsoleApp.Domain
             return true;
         }
     }
-}
+

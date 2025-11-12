@@ -1,12 +1,360 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\application\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:application\\commands\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\application\\commands\\placenumbercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:application\\commands\\placenumbercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\application\\commands\\undocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:application\\commands\\undocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\application\\searchtemplates\\solvertemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:application\\searchtemplates\\solvertemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\application\\solvers\\consistency\\forwardchecking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:application\\solvers\\consistency\\forwardchecking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\application\\solvers\\consistency\\iconstraintpropagator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:application\\solvers\\consistency\\iconstraintpropagator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\application\\solvers\\heuristics\\iheuristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:application\\solvers\\heuristics\\iheuristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\application\\solvers\\heuristics\\mrvheuristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:application\\solvers\\heuristics\\mrvheuristic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\application\\solvers\\backtrackingsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:application\\solvers\\backtrackingsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\application\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:application\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\domain\\validation\\classicsudokuvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:domain\\validation\\classicsudokuvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\domain\\validation\\iboardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:domain\\validation\\iboardvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\domain\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:domain\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\domain\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:domain\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\domain\\isudokusolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:domain\\isudokusolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\domain\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:domain\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\domain\\sudokurules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:domain\\sudokurules.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\infrastructure\\boardloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:infrastructure\\boardloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\infrastructure\\boardrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:infrastructure\\boardrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|c:\\users\\legio\\source\\repos\\sudoku.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C60EEC7D-67AE-4C1B-B06F-1509A1080C82}|Sudoku.ConsoleApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Commands\\ICommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\ICommand.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Commands\\ICommand.cs",
+              "RelativeToolTip": "Application\\Commands\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:56.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaceNumberCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Commands\\PlaceNumberCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\PlaceNumberCommand.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Commands\\PlaceNumberCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\PlaceNumberCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:55.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UndoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Commands\\UndoCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Commands\\UndoCommand.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Commands\\UndoCommand.cs",
+              "RelativeToolTip": "Application\\Commands\\UndoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:53.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SolverTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\SearchTemplates\\SolverTemplate.cs",
+              "RelativeDocumentMoniker": "Application\\SearchTemplates\\SolverTemplate.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\SearchTemplates\\SolverTemplate.cs",
+              "RelativeToolTip": "Application\\SearchTemplates\\SolverTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:52.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForwardChecking.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Solvers\\Consistency\\ForwardChecking.cs",
+              "RelativeDocumentMoniker": "Application\\Solvers\\Consistency\\ForwardChecking.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Solvers\\Consistency\\ForwardChecking.cs",
+              "RelativeToolTip": "Application\\Solvers\\Consistency\\ForwardChecking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:51.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IConstraintPropagator.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Solvers\\Consistency\\IConstraintPropagator.cs",
+              "RelativeDocumentMoniker": "Application\\Solvers\\Consistency\\IConstraintPropagator.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Solvers\\Consistency\\IConstraintPropagator.cs",
+              "RelativeToolTip": "Application\\Solvers\\Consistency\\IConstraintPropagator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:50.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IHeuristic.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Solvers\\Heuristics\\IHeuristic.cs",
+              "RelativeDocumentMoniker": "Application\\Solvers\\Heuristics\\IHeuristic.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Solvers\\Heuristics\\IHeuristic.cs",
+              "RelativeToolTip": "Application\\Solvers\\Heuristics\\IHeuristic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:49.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MrvHeuristic.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Solvers\\Heuristics\\MrvHeuristic.cs",
+              "RelativeDocumentMoniker": "Application\\Solvers\\Heuristics\\MrvHeuristic.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Solvers\\Heuristics\\MrvHeuristic.cs",
+              "RelativeToolTip": "Application\\Solvers\\Heuristics\\MrvHeuristic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:47.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BacktrackingSolver.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Solvers\\BacktrackingSolver.cs",
+              "RelativeDocumentMoniker": "Application\\Solvers\\BacktrackingSolver.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\Solvers\\BacktrackingSolver.cs",
+              "RelativeToolTip": "Application\\Solvers\\BacktrackingSolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:46.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\GameEngine.cs",
+              "RelativeDocumentMoniker": "Application\\GameEngine.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Application\\GameEngine.cs",
+              "RelativeToolTip": "Application\\GameEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:44.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClassicSudokuValidator.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\Validation\\ClassicSudokuValidator.cs",
+              "RelativeDocumentMoniker": "Domain\\Validation\\ClassicSudokuValidator.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\Validation\\ClassicSudokuValidator.cs",
+              "RelativeToolTip": "Domain\\Validation\\ClassicSudokuValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:43.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBoardValidator.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\Validation\\IBoardValidator.cs",
+              "RelativeDocumentMoniker": "Domain\\Validation\\IBoardValidator.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\Validation\\IBoardValidator.cs",
+              "RelativeToolTip": "Domain\\Validation\\IBoardValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:42.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\Board.cs",
+              "RelativeDocumentMoniker": "Domain\\Board.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\Board.cs",
+              "RelativeToolTip": "Domain\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:41.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\Cell.cs",
+              "RelativeDocumentMoniker": "Domain\\Cell.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\Cell.cs",
+              "RelativeToolTip": "Domain\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:40.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISudokuSolver.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\ISudokuSolver.cs",
+              "RelativeDocumentMoniker": "Domain\\ISudokuSolver.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\ISudokuSolver.cs",
+              "RelativeToolTip": "Domain\\ISudokuSolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:39.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\Position.cs",
+              "RelativeDocumentMoniker": "Domain\\Position.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\Position.cs",
+              "RelativeToolTip": "Domain\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:38.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SudokuRules.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\SudokuRules.cs",
+              "RelativeDocumentMoniker": "Domain\\SudokuRules.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Domain\\SudokuRules.cs",
+              "RelativeToolTip": "Domain\\SudokuRules.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:37.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BoardLoader.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Infrastructure\\BoardLoader.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\BoardLoader.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Infrastructure\\BoardLoader.cs",
+              "RelativeToolTip": "Infrastructure\\BoardLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:36.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:35:27.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BoardRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Infrastructure\\BoardRenderer.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\BoardRenderer.cs",
+              "ToolTip": "C:\\Users\\LEGIO\\source\\repos\\Sudoku.ConsoleApp\\Infrastructure\\BoardRenderer.cs",
+              "RelativeToolTip": "Infrastructure\\BoardRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T04:34:37.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

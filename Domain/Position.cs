@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Sudoku.ConsoleApp.Domain
-{
-    internal class Position
+
+namespace Sudoku.ConsoleApp.Domain;
+
+    public readonly struct Position
     {
         public int Row { get; }
         public int Col { get; }
@@ -20,4 +17,3 @@ namespace Sudoku.ConsoleApp.Domain
 
         public override string ToString() => $"({Row},{Col})";
     }
-}
